@@ -14,5 +14,5 @@ Clone the repository and then move Cordkillers.bundle into your Plex plugins dir
 
 Make sure Cordkillers.bundle is owned by the user plex runs as (for me this is sudo chown plex:plex -R Cordkillers.bundle).
 
-You might need to make sure that Cordkillers.bundle/Content/Code/__init__.py is executable (sudo chmod +x __init__.py)
+You might need to make sure that Cordkillers.bundle/Content/Code/\_\_init\_\_.py is executable (sudo chmod +x \_\_init\_\_.py)
 
